@@ -14,7 +14,12 @@ Through the tracking of P points over F frames of images, the 2FxP measurement m
 
 ## Data: Castle Image Sequence & Medusa Head Image Sequence
 <p align="center">
-  <img width="460" height="300" src="https://github.com/zhiweigong75/Structure-from-Motion-KLT-Factorization/main/Images/csatle.jpg">
+  <img width="460" height="300" src="https://github.com/zhiweigong75/Structure-from-Motion-KLT-Factorization/main/Images/castle.jpg">
+</p> 
+
+## Structure from Motion
+<p align="center">
+  <img width="460" height="300" src="https://github.com/zhiweigong75/Structure-from-Motion-KLT-Factorization/main/Images/SfM_castle.jpg">
 </p> 
 
 
