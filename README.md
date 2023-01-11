@@ -15,11 +15,16 @@ Through the tracking of P points over F frames of images, the 2FxP measurement m
 ## Data: Castle Image Sequence & Medusa Head Image Sequence
 <p align="center">
   <img width="460" height="300" src="https://github.com/zhiweigong75/Structure-from-Motion-KLT-Factorization/blob/main/Images/castle.jpg">
+  <img width="460" height="300" src="https://github.com/zhiweigong75/Structure-from-Motion-KLT-Factorization/blob/main/Images/Medusa.jpg">
 </p> 
 
 ## Structure from Motion
 <p align="center">
   <img width="460" height="300" src="https://github.com/zhiweigong75/Structure-from-Motion-KLT-Factorization/blob/main/Images/SfM_castle.jpg">
+  <img width="460" height="300" src="https://github.com/zhiweigong75/Structure-from-Motion-KLT-Factorization/blob/main/Images/SfM_Medusa.jpg">
 </p> 
 
+## References
+[1] Jianbo, Shi, and Carlo Tomasi. "Good features to track." In IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 593-600. 1994.
+[2] C. Tomasi and T. Kanade, "Shape and motion from image streams under orthography-- a factorization method," International Journal of Computer Vision, 9(2):137--154, 1992.
 
