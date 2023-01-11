@@ -26,5 +26,6 @@ Through the tracking of P points over F frames of images, the 2FxP measurement m
 
 ## References
 [1] Jianbo, Shi, and Carlo Tomasi. "Good features to track." In IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 593-600. 1994.
+
 [2] C. Tomasi and T. Kanade, "Shape and motion from image streams under orthography-- a factorization method," International Journal of Computer Vision, 9(2):137--154, 1992.
 
